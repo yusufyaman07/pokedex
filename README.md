@@ -42,16 +42,6 @@ Smooth transitions and animations
 
 Card shadows for depth perception
 
-# Technical Implementation
-Built With
-HTML5 - Semantic markup structure
-
-CSS3 - Modern styling with Flexbox and Grid
-
-JavaScript (ES6) - Dynamic content loading
-
-PokeAPI - Comprehensive Pokémon data
-
 # Technical Highlights
 Asynchronous data fetching from PokeAPI
 
